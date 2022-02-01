@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Anycubic Vyper Advanced Documentation'
+copyright = 'GPLv3'
+author = 'Anycubic Vyper Advanced Documentation - TEAM'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0.1'
+version = '0.0.1'
 
 # -- General configuration
 

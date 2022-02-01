@@ -1,13 +1,15 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome Anycubic Vyper Advanced Documentation
+=============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This Project should collect informations about the Anycubic Vyper 3D Printer.
+The informations here are thought mainly for modding either the firmware or hardware.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Because I was unable to find any Wiki or Webpage that can give a central overview about 
+all that points, I will start this project.
+
+* hardware
+* software
+* a.s.o.
 
 .. note::
 
@@ -17,6 +19,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
 
-   usage
-   api
+   hardware/hardware_index
+   software/software_index
+   how_to_contribute
