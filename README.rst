@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Anycubic Vyper Advanced Documentation Project
+=============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This project contains advanced information about the hardware and software
+of the Anycubic Vyper 3D Printer.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Feel free to contribute.
