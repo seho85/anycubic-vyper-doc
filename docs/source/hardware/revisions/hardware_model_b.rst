@@ -5,7 +5,7 @@ Model B (Refurbished ones 2021/2022)
 
 Mainboard
 =========
-TriGorilla v0.0.6
+:ref:`TriGorilla V0.0.6<trigorilla_v006_mainboard>`
 
 FAN
 ---
