@@ -11,9 +11,11 @@ all that points, I will start this project.
 * software
 * a.s.o.
 
-.. note::
+.. warning::
 
-   This project is under active development.
+   This project may contain informations that are not complete or correct.
+
+   Use the informations provided here on your on risk.
 
 Contents
 --------
