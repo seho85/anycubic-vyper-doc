@@ -6,6 +6,10 @@ Mainboard
 =========
 To be defined
 
+.. todo::
+
+    Add Mainboard that is used in Model A revision
+
 FAN
 ---
 To be defined

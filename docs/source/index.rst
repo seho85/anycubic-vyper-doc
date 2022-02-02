@@ -24,3 +24,4 @@ Contents
    hardware/hardware_index
    software/software_index
    how_to_contribute
+   todo
