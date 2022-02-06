@@ -1,0 +1,24 @@
+.. _gd32f103:
+
+GD32F103 MCU
+============
+The GD32F103 looks like a clone of the STM32F103 pin compatible and mostly register compatible, 
+but with difference clock speed. It's able to run at 108 MHz instead of 72MHz (STM32F1).
+
+The platform.io system also uses the a definition for STM32F103 for building the firmware.
+See https://github.com/ANYCUBIC-3D/framework-arduinoststm32_vyper/blob/main/ac_tri_f103re.json
+
+This would lead to the following minimum specs (taken from STM32F103RET6 Datasheet)
+
+.. csv-table:: MCU minimum specs
+
+    Speed, 72 MHz
+    Flash, 512 KB
+    RAM, 64 KB
+
+
+
+
+Links
+-----
+http://smdprutser.nl/blog/stm32f103-vs-gd32f103/

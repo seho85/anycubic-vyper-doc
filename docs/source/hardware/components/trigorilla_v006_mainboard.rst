@@ -6,8 +6,11 @@ TriGorilla V0.0.6 Mainboard
 
 .. image:: ../../img/Model_B/TriGorillaV006_Mainboard.jpg
 
-
 MCU
+---
+The TriGorilla V0.0.6 Mainboard uses a :ref:`GD32F103<gd32f103>` MCU.
+
+PINS
 ---
 
 This PIN definitions were taken from Anycubic Firmware source.
@@ -73,3 +76,12 @@ Used Pins:
     PD2, SDIO CMD
     
 
+Serial Interfaces
+-----------------
+
+.. csv-table::
+    :header: "No", "Usage"
+
+    1, ???
+    2, ???
+    3, Display Communication
