@@ -17,8 +17,6 @@ This would lead to the following minimum specs (taken from STM32F103RET6 Datashe
     RAM, 64 KB
 
 
-
-
 Links
 -----
 http://smdprutser.nl/blog/stm32f103-vs-gd32f103/
